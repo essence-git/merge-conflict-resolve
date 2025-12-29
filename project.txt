@@ -1,2 +1,3 @@
 Project Update:
 Initial setup completed.
+Payment module added by Developer B.
